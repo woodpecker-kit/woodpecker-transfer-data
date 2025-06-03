@@ -58,20 +58,6 @@ $ echo "go mod vendor"
 - [ ] more perfect test case coverage
 - [ ] more perfect benchmark case
 
-## env
-
-- minimum go version: go 1.19
-- change `go 1.19`, `^1.19`, `1.19.12-bullseye`, `1.19.12` to new go version
-
-### libs
-
-| lib                                 | version |
-|:------------------------------------|:--------|
-| https://github.com/stretchr/testify | v1.8.4  |
-| https://github.com/sebdah/goldie    | v2.5.3  |
-
-- more libs see [go.mod](https://github.com/woodpecker-kit/woodpecker-transfer-data/blob/main/go.mod)
-
 ## usage
 
 - use this template, replace list below
